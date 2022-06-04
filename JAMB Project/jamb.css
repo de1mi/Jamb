@@ -1,0 +1,43 @@
+/* I need to attempt the media screen, though!*/
+body{
+    background-image: url(Jimg.jpg); background-size: cover;
+    }
+    .sample0{
+    margin: 10px 50px; text-align: center; box-shadow: 10px; padding: 3px 5px;
+    }
+    button{
+     padding: 4px 2px 4px 3px; border: 2px blue; background-color: rgb(45, 140, 218); width: 22%; 
+    color: white; margin: 15px 5px 2px 0px; font-size: 14px; cursor: pointer; height: 80%;
+    }
+    footer{
+    color: green; text-align: center; font-size: small;
+    }
+    form{
+     padding: 2px; background-color: white; width: 80%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border: none; font-weight: lighter;
+    }
+
+    input{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        outline: none;
+    }
+    .sample4{
+    font-weight: bold; font-size: 12px; 
+    }
+    #sample5{
+        color: red; font-weight: bold; font-size: small; font-style: italic;
+    }
+    .sample1{
+        margin: 10px 100px; border: 3px grey; line-height: 8px; box-shadow:  3px 3px 3px 3px #888888;
+        padding: 5px;
+    }
+    input{
+        border: none; width: 80%; padding: 4px; font-weight: bold; font-size: 12px;
+    }
+    .sample6{
+        margin: 40px 150px;
+    }
+   .sample7{
+       font-size: 20px; font-family: tahoma; 
+   }
